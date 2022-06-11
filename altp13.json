@@ -4,14 +4,16 @@
     {
       "dapan": "D",
       "link": "https://i.postimg.cc/ZYp8W3rx/13-1-D.png",
-      "helpone": ["A","C","https://i.postimg.cc/43LYb7tH/mot-13-1-D.png"],
+      "helpone": ["A","C"],
+      "helptwo": ["https://i.postimg.cc/4Ndt43mz/hai-13-1-D-1.png", "https://i.postimg.cc/9Fn9Dj7s/hai-13-1-D-2.png"],
       "helpthree": ["D", "D", "B"],
       "giaithich": "ca dao miền Trung: Ai lên Biện Thượng, Lam Sơn/Nhớ Lê Thái Tổ chặn đường quân Minh. Lê Thái Tổ: Tên thật là Lê Lợi, là vị hoàng đế đầu tiên của triều Hậu Lê"
     },
     {
       "dapan": "C",
       "link": "https://i.postimg.cc/fyd2bb92/13-2-C.png",
-      "helpone": ["B","D","https://i.postimg.cc/qRNzmJXb/mot-13-2-C.png"],
+      "helpone": ["B","D"],
+      "helptwo": ["https://i.postimg.cc/gc48Phkz/hai-13-2-C-12.png"],
       "helpthree": ["C", "C", "C"],
       "giaithich": "triều Hậu Lê"
     }
