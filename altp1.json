@@ -4,15 +4,15 @@
     {
       "dapan": "A",
       "link": "https://i.postimg.cc/2Sc1HBxY/1-1-A.png",
-      "helpone": ["B","D","https://i.postimg.cc/JzJ3q0r2/mot-1-1-A.png"],
-      "helptwo": ["https://i.postimg.cc/BvQw8R45/hai-1-1-A-12.png", "https://i.postimg.cc/BvQw8R45/hai-1-1-A-12.png"],
+      "helpone": ["B","D"],
+      "helptwo": ["https://i.postimg.cc/BvQw8R45/hai-1-1-A-12.png"],
       "helpthree": ["A", "A", "C"],
       "giaithich": "tên bài hát là Mẹ Yêu Không Nào được sáng tác bởi Lê Xuân Thọ và ra mắt vào 14/07/2012"
     },
     {
       "dapan": "C",
       "link": "https://i.postimg.cc/HLrVFsSy/1-2-C.png",
-      "helpone": ["A","D","https://i.postimg.cc/CKgG60dL/mot-1-2-C.png"],
+      "helpone": ["A","D"],
       "helptwo": ["https://i.postimg.cc/1zC7DM3k/hai-1-2-C-1.png", "https://i.postimg.cc/SxGvxmFN/hai-1-2-C-2.png"],
       "helpthree": ["B", "C", "C"],
       "giaithich": "bảy chú lùn làm nghề thợ mỏ, đào được rất nhiều đá quý/kim cương mỗi ngày"
@@ -20,24 +20,24 @@
     {
       "dapan": "D",
       "link": "https://i.postimg.cc/9XLMnfsh/1-3-D.png",
-      "helpone": ["B","C","https://i.postimg.cc/sDb977rW/mot-1-3-D.png"],
-      "helptwo": ["https://i.postimg.cc/brb6ch9P/hai-1-3-D-12.png", "https://i.postimg.cc/brb6ch9P/hai-1-3-D-12.png"],
+      "helpone": ["B","C"],
+      "helptwo": ["https://i.postimg.cc/brb6ch9P/hai-1-3-D-12.png"],
       "helpthree": ["D", "D", "D"],
       "giaithich": "xích đạo là một đường tròn tưởng tượng được vẽ ra trên bề mặt một hành tinh (hoặc các thiên thể khác) tại khoảng cách nằm giữa hai cực, theo định nghĩa thì vĩ độ của đường xích đạo là 0°"
     },
     {
       "dapan": "B",
       "link": "https://i.postimg.cc/rwp9V4sw/1-4-B.png",
-      "helpone": ["A","D","https://i.postimg.cc/k4Mxqyx0/mot-1-4-B.png"],
-      "helptwo": ["https://i.postimg.cc/vB4qh91c/hai-1-4-B-12.png", "https://i.postimg.cc/vB4qh91c/hai-1-4-B-12.png"],
+      "helpone": ["A","D"],
+      "helptwo": ["https://i.postimg.cc/vB4qh91c/hai-1-4-B-12.png"],
       "helpthree": ["B", "B", "B"],
       "giaithich": "những chiếc giỏ xe chở đầy hoa phượng, em chở mùa hè của tôi đi đâu?"
     },
     {
       "dapan": "C",
       "link": "https://i.postimg.cc/1RGx6kHN/1-5-C.png",
-      "helpone": ["A","D","https://i.postimg.cc/7LngFRT1/mot-1-5-C.png"],
-      "helptwo": ["https://i.postimg.cc/1tbWjt6M/hai-1-5-C-12.png", "https://i.postimg.cc/1tbWjt6M/hai-1-5-C-12.png"],
+      "helpone": ["A","D"],
+      "helptwo": ["https://i.postimg.cc/1tbWjt6M/hai-1-5-C-12.png"],
       "helpthree": ["C", "C", "C"],
       "giaithich": "từ xưa đến nay hoa hồng luôn là loài hoa tượng trưng cho tình yêu"
     }
