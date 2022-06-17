@@ -32,6 +32,14 @@
       "helptwo": ["https://i.postimg.cc/bvcPc3Vt/hai-3-4-A-1.png", "https://i.postimg.cc/wTMghts7/hai-3-4-A-2.png"],
       "helpthree": ["A", "B", "A"],
       "giaithich": "Thượng Bảo Tẩm Đinh Ba"
+    },
+    {
+      "dapan": "B",
+      "link": "https://i.postimg.cc/SRMDTVK4/3-5-B.png",
+      "helpone": ["C","D"],
+      "helptwo": ["https://i.postimg.cc/y6v7ghxM/hai-3-3-B-1.png", "https://i.postimg.cc/k57DxJNG/hai-2-1-B-2.png"],
+      "helpthree": ["A", "B", "B"],
+      "giaithich": "Trong toán học, định lý Viète hay công thức Viète, do nhà toán học Pháp François Viète tìm ra, nêu lên mối quan hệ giữa các nghiệm của một phương trình đa thức và các hệ số của nó"
     }
     
   ]
